@@ -24,7 +24,7 @@ Excel / CSV datasets transformed using Power Query and Power BI data modeling.
 • Time-series performance trends  
 ## Business Impact
 Helps marketing teams identify the most cost-effective channels, optimize budget allocation, and improve ROI through data-driven decisions.
-![Dashboard Preview]
+## Dashboard Preview
 <img width="1050" height="561" alt="Screenshot 2026-02-10 at 10 12 42" src="https://github.com/user-attachments/assets/66ae684f-72a7-4783-8e50-cba2ffdd80d7" />
 
 
