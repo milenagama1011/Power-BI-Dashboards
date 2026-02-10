@@ -6,7 +6,7 @@
 Interactive dashboard tracking programme performance and student engagement across 45 academic programmes to support institutional leadership decisions and resource planning.
 
 ### 🔗 Access Dashboard
-**[Open Dashboard](https://app.powerbi.com/reportEmbed?reportId=d20f06b9-b494-4f64-87c8-9197600e39ec&autoAuth=true&ctid=1eb34f73-38dd-42db-98db-53b54e749d52<img width="468" height="43" alt="image" src="https://github.com/user-attachments/assets/57b531e3-fdba-472e-baf2-91d67e4a2aed" />)**
+https://app.powerbi.com/reportEmbed?reportId=d20f06b9-b494-4f64-87c8-9197600e39ec&autoAuth=true&ctid=1eb34f73-38dd-42db-98db-53b54e749d52<img width="468" height="43" alt="image" src="https://github.com/user-attachments/assets/30e55825-a150-4190-ab1b-ce6f14175389" />
 
 ### 📊 Key Metrics Tracked
 - **Participation Rates** - Overall student enrollment and attendance metrics
@@ -46,7 +46,7 @@ Interactive dashboard tracking programme performance and student engagement acro
 Data storytelling dashboard analyzing team and player performance statistics to demonstrate advanced visualization, filtering, and interactive reporting techniques. This showcase highlights the ability to create engaging, user-friendly analytics for non-technical audiences.
 
 ### 🔗 Access Dashboard
-**[Open Dashboard](https://app.powerbi.com/reportEmbed?reportId=b0e43b79-2567-478a-981f-e56a864d27d8)**
+[**[Open Dashboard](https://app.powerbi.com/reportEmbed?reportId=b0e43b79-2567-478a-981f-e56a864d27d8)**](https://app.powerbi.com/reportEmbed?reportId=b0e43b79-2567-478a-981f-e56a864d27d8&autoAuth=true&ctid=1eb34f73-38dd-42db-98db-53b54e749d52&actionBarEnabled=true&reportCopilotInEmbed=true)<img width="468" height="58" alt="image" src="https://github.com/user-attachments/assets/6f2b35c5-b425-48bd-8ed1-d1907c1b61ef" />
 
 ### 📊 Key Metrics Tracked
 - **Goals & Assists** - Individual and team scoring performance
