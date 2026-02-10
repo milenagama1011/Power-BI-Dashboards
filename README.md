@@ -1,6 +1,7 @@
 # Power BI Dashboards – Milena Gama
 A small portfolio of Power BI dashboards focused on KPI tracking, performance monitoring, and clear data storytelling. This repository showcases selected Power BI dashboards focused on KPI tracking, analytics, and decision support.
-## LinkedIn: https://www.linkedin.com/in/MilenaGama
+
+## LinkedIn - https://www.linkedin.com/in/MilenaGama
 ---
 ## Dashboard 1 – SMEs Digital Marketing Performance KPIs
 Live Dashboard:
