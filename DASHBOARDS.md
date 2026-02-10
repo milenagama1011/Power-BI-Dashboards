@@ -5,41 +5,27 @@
 ### Overview
 Interactive dashboard tracking programme performance and student engagement across 45 academic programmes to support institutional leadership decisions and resource planning.
 
-### 🔗 Access Dashboard
+### Access Dashboard
 https://app.powerbi.com/reportEmbed?reportId=d20f06b9-b494-4f64-87c8-9197600e39ec&autoAuth=true&ctid=1eb34f73-38dd-42db-98db-53b54e749d52
 
-### 📊 Key Metrics Tracked
+### Key Metrics Tracked:
 - **Participation Rates** - Overall student enrollment and attendance metrics
 - **Completion Rates** - Programme completion and graduation statistics
 - **Engagement Indicators** - Student interaction and involvement levels
 - **Programme Performance Comparisons** - Relative performance across all 45 programmes
 - **Trends Over Time** - Historical performance patterns and trajectory analysis
 
-### 💾 Data Sources
+### Data Sources
 - Excel spreadsheets
 - Institutional datasets
 - Power Query transformations for data cleansing and enrichment
 
-### 🎛️ Interactive Features
-- **Filters by Department & Programme** - Drill down into specific academic areas
-- **Drill-through Analysis** - Navigate from summary views to detailed records
-- **KPI Scorecards** - At-a-glance performance indicators
-- **Time-Series Trends** - Historical data visualization and forecasting
-
-### 📈 Business Impact
+### Business Impact
 ✅ Enabled leadership to quickly identify underperforming areas  
 ✅ Prioritized targeted improvements based on data insights  
 ✅ Supported data-driven policy decisions  
 ✅ Streamlined resource allocation across programmes  
-
-### 🛠️ Technical Implementation
-- **Data Transformation:** Power Query for ETL processes
-- **Calculations:** DAX formulas for KPI calculations
-- **Visualization:** Multiple chart types for different analytical perspectives
-- **Interactivity:** Slicers, filters, and drill-through pages for exploration
-
 ---
-
 ## Dashboard 2: FIFA Tournament Performance Dashboard
 
 ### Overview
