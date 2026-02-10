@@ -6,7 +6,7 @@
 Interactive dashboard tracking programme performance and student engagement across 45 academic programmes to support institutional leadership decisions and resource planning.
 
 ### 🔗 Access Dashboard
-https://app.powerbi.com/reportEmbed?reportId=d20f06b9-b494-4f64-87c8-9197600e39ec&autoAuth=true&ctid=1eb34f73-38dd-42db-98db-53b54e749d52<img width="468" height="43" alt="image" src="https://github.com/user-attachments/assets/30e55825-a150-4190-ab1b-ce6f14175389" />
+https://app.powerbi.com/reportEmbed?reportId=d20f06b9-b494-4f64-87c8-9197600e39ec&autoAuth=true&ctid=1eb34f73-38dd-42db-98db-53b54e749d52
 
 ### 📊 Key Metrics Tracked
 - **Participation Rates** - Overall student enrollment and attendance metrics
