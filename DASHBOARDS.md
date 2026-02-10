@@ -26,5 +26,5 @@ Key Features:
 Business Impact:  
 Helps marketing teams identify the most cost-effective channels, optimize budget allocation, and improve campaign performance using data-driven decisions.
 
-Screenshot <img width="902" height="483" alt="Screenshot 2026-02-10 at 10 03 57" src="https://github.com/user-attachments/assets/5ecd666e-d0cc-4ffe-a9f7-e1c96d8255bd" />
+Preview: <img width="902" height="483" alt="Screenshot 2026-02-10 at 10 03 57" src="https://github.com/user-attachments/assets/5ecd666e-d0cc-4ffe-a9f7-e1c96d8255bd" />
 
